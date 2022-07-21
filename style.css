@@ -1,0 +1,35 @@
+*{
+   font-family:arial;
+}
+body{
+   margin:20px;
+}
+input{
+    border:solid 1px #2222AA;
+    margin-bottom:10px;
+    padding:16px;
+    outline:none;
+    border-radius:6px;
+}
+.erreur{
+    color:#CC0000;
+    margin-bottom:10px;
+}
+a{
+    font-size:12pt;
+    color:#EE6600;
+    text-decoration:none;
+    font-weight:normal;
+}
+a:hover{
+    text-decoration:underline;
+}
+
+/**/
+
+ 
+
+ .erreurspan{
+    color: #D8000C;
+    background-color: #FFBABA;
+ }
